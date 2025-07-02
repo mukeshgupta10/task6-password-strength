@@ -1,0 +1,165 @@
+Breakdown (for mu!mu!mu!gu@PT#):
+
+Metric                          Value	                            Points
+Number of Characters (15)	+60	                            ✅ Long passwords are more secure
+Uppercase Letters (2)	        +26	                            ✅ Adds complexity
+Lowercase Letters (8)	        +14	                            ✅ Good base
+Numbers (0)	                 +0	                            ⚠️ Adding a digit would boost strength
+Symbols (5)	                +30	                            ✅ Very strong contribution
+Middle Numbers or Symbols (4)	+8	                            ✅ Improves unpredictability
+Requirements Met	       (length, case mix, symbols)          ✅ Strong
+
+
+From this, we learn:
+
+Longer = Better: Aim for at least 12–15 characters.
+
+Mix of Characters: Use uppercase, lowercase, numbers, and symbols.
+
+Avoid Patterns: Don't repeat names or use phone numbers.
+
+Use Symbols in the Middle: Not just at the end (like @123) — this adds more unpredictability.
+
+Avoid Dictionary Words: Hackers try those first in dictionary attacks.
+
+
+
+Breakdown for (Muke@Gupt):
+
+
+✅ Additions:
+Category	                   Value	                        Score
+Length	9 characters	           +36
+Uppercase Letters	           2 (M, G)	                        +14
+Lowercase Letters	           6 (uke, upt)	                        +6
+Numbers	0	                   0
+Symbols	1 (@)	                   +6
+Middle Numbers or Symbols	   1 (@ in the middle)	                +2
+Requirements Met	           4 (length, upper, lower, symbol)	+8
+
+❌ Deductions:
+Weakness	                   Value	                        Penalty
+Repeated Characters	             2	                                 −1
+Consecutive Lowercase Letters	     4	                                 −8
+ 
+
+
+Final Score Estimate: Around 63%
+(This is a solid medium-strength password.)
+
+🧠 Feedback:
+✅ Good use of uppercase, lowercase, and one symbol.
+
+❌ Could be stronger with at least one number and more length.
+
+⚠️ Repeating letters and consecutive lowercase sequences slightly weaken it.
+
+
+
+
+Breakdown for  (mukesh@7609914605):
+
+
+✅ Additions:
+Category	                     Value	                            Score
+Length	17 characters	             +68
+Uppercase Letters	               0	                             0
+Lowercase Letters	               6	                            +22
+Numbers	10	                     +40
+Symbols	1 (@)	                     +6
+Middle Numbers/Symbols	             10	                                    +20
+Requirements Met	             4 (length, lower, number, symbol)	    +8
+
+❌ Deductions:
+Weakness	                     Value	Penalty
+Repeated Characters	               6	−1
+Consecutive Lowercase Letters	       5	−10
+Consecutive Numbers	               9	−18
+
+
+Final Score Estimate: Around 85%
+(High score, but not perfect due to some pattern weaknesses.)
+
+🧠 Feedback:
+✅ Excellent length and good use of lowercase, numbers, and a symbol.
+
+❌ Weakness: All numbers are together — looks like a phone number, which is guessable.
+
+❌ No uppercase letters. Including some would boost unpredictability.
+
+⚠️ Consecutive lowercase and number sequences reduced the score.
+
+
+Breakdown for (mukesh@123):
+
+
+✅ Additions:
+
+Category	                      Value	                           Score
+Length	10 characters	              +40
+Uppercase Letters	               0	                            0
+Lowercase Letters	               6	                           +8
+Numbers	                               3                                   +12
+Symbols	                              1 (@)	                           +6
+Middle Numbers/Symbols	               3	                           +6
+Requirements Met	       4 (length, lower, number, symbol)	   +8
+
+❌ Deductions:
+
+Weakness	                       Value	Penalty
+Consecutive Lowercase Letters	        5	−10
+Consecutive Numbers	                2	−4
+Sequential Numbers                     (3+)	1 (e.g., 123)	−3
+
+ Final Score Estimate: Around 60–65%
+(Average strength. Could be much better.)
+
+🧠 Feedback:
+✅ Good basic structure with mixed types.
+
+❌ Weak points:
+
+Common number pattern (123) is very predictable.
+
+All lowercase letters and a single symbol — lacks complexity.
+
+No uppercase letters.
+
+⚠️ This type of password is vulnerable to dictionary and brute-force attacks.
+
+
+
+REPORT:
+
+Summary & Learnings
+From this task, I learned:
+
+Password length, variety of characters, and unpredictability directly impact strength.
+
+Using only names, phone numbers, or predictable patterns like 123 weakens a password.
+
+Strong passwords include:
+
+Uppercase + lowercase letters
+
+Numbers
+
+Symbols
+
+No repeated or sequential patterns
+
+Passwords should ideally be 12+ characters long.
+
+Tools like passwordmeter.com help analyze password weaknesses.
+
+Passphrases (e.g., T1me!4Choco@LatE) can be secure and easier to remember.
+
+I understood threats like:
+
+Brute Force Attack — trying every combination.
+
+Dictionary Attack — trying common words/phrases.
+
+Best Practice: Use a password manager to store strong, unique passwords.
+
+
